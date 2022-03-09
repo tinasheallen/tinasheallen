@@ -12,13 +12,13 @@
 
 <p align="left"> <a href="https://twitter.com/tiphics" target="blank"><img src="https://img.shields.io/twitter/follow/tiphics?logo=twitter&style=for-the-badge" alt="tiphics" /></a> </p>
 
-- 🔭 I’m currently working on [Bug Tracking System](https://github.com/tinasheallen/ReactJS-Bug-tracker)
+- 🔭 I’m currently working on my Portfolio
 
 - 🌱 I’m currently learning **ReactJS & Vue**
 
 - 💬 Ask me about **Swift , JavaScript , Python**
 
-- ⚡ Fun fact **I am a fast learner**
+- ⚡ Fun fact **I'm a fast learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
