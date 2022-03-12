@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Allen Ndawana</h1>
+<h1 align="center">Hi 👋, I'm Allen</h1>
 <h3 align="center">I'm a Software Engineer with an interest in building IOS & Web Apps.</h3>
 
 
