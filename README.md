@@ -25,5 +25,3 @@
 <a href="https://www./nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="xd" width="40" height="40"/>
 </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinasheallen&show_icons=true&locale=en&layout=compact" alt="tinasheallen" /></p>
