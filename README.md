@@ -4,6 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinasheallen&label=Profile%20views&color=0e75b6&style=flat" alt="tinasheallen" /> </p>
 
+# 👋 Hi, I'm Allen  
+💻 Cloud & DevOps Engineer | Networking | Infrastructure as Code  
+
+🚀 I’m focused on designing, building, and automating secure cloud infrastructure.  
+Currently pursuing: **CCNA | AWS Solutions Architect Associate | Terraform Associate**  
 
 
 <h3 align="left">Languages and Tools:</h3>
