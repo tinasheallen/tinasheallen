@@ -23,10 +23,8 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="figma" width="40" height="40"/> 
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+<a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="teraform" width="40" height="40"/> 
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www./nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="xd" width="40" height="40"/>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="xd" width="40" height="40"/>
 </a>
 </p>
