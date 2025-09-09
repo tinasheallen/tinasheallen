@@ -1,4 +1,4 @@
-<img src="https://github.com/tinasheallen/tinasheallen/blob/main/banner.png" alt="banner that says Allen makes apps and websites">
+<img src="https://github.com/tinasheallen/tinasheallen/blob/main/github banner.png" alt="banner that says Allen makes apps and websites">
 
 
 
