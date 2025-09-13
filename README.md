@@ -20,8 +20,6 @@ Currently pursuing: **CCNA | AWS Solutions Architect Associate | Terraform Assoc
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="xd" width="40" height="40"/> 
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bash-2.svg" alt="bash" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="react" width="50" height="50"/> 
