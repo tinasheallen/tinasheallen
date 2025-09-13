@@ -26,7 +26,7 @@ Currently pursuing: **CCNA | AWS Solutions Architect Associate | Terraform Assoc
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="figma" width="40" height="40"/> 
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="teraform" width="40" height="40"/> 
+<a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" alt="teraform" width="40" height="40"/> 
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.redhat.com/en/ansible-collaborative" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="xd" width="40" height="40"/> 
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
