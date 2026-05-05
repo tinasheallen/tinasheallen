@@ -48,13 +48,3 @@
 </p>
 
 ---
-## 📜 Certifications
-
-* 🎯 AZ-104 (In Progress)
-* ✅ AWS Solutions Architect – Associate
-* ✅ CompTIA Security+
-* ✅ Okta Foundations
-* ✅ SailPoint Identity Foundations
-
----
-## 📫 Connect With Me
