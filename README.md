@@ -48,14 +48,6 @@
 </p>
 
 ---
-
-## 📂 Featured Projects
-
-### 🔐 Azure IAM Lab (AZ-104 Focus)
-
-
----
-
 ## 📜 Certifications
 
 * 🎯 AZ-104 (In Progress)
