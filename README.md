@@ -1,18 +1,9 @@
-<img src="https://github.com/tinasheallen/tinasheallen/blob/main/github banner.png" alt="banner that says Allen makes apps and websites">
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tinasheallen&label=Profile%20views&color=0e75b6&style=flat" alt="tinasheallen" /> </p>
-
-# 👋 Hi, I'm Allen  
-☁️ Cloud Security Engineer | AWS | Azzure | IAM | GRC 
-
-🚀 I’m focused on designing, building, and automating secure cloud infrastructure. 
 
 <!-- ================= BANNER ================= -->
 
 <p align="center">
-  <img src="https://github.com/tinasheallen/tinasheallen/blob/main/github-banner.png" alt="banner"/>
+  <img src="https://github.com/tinasheallen/tinasheallen/blob/main/github banner.png" alt="banner that says Allen makes apps and websites">
 </p>
 
 <!-- ================= HEADER ================= -->
@@ -62,42 +53,6 @@
 
 ### 🔐 Azure IAM Lab (AZ-104 Focus)
 
-* Implemented **RBAC roles and policies**
-* Configured **Azure Entra ID (Users, Groups, MFA)**
-* Secured resources using **Managed Identities**
-* Enabled monitoring with **Azure Monitor & Logs**
-
-👉 Tech: Azure, Entra ID, RBAC
-
----
-
-### 🔐 AWS IAM Security Lab
-
-* Designed **least-privilege IAM policies**
-* Implemented **role-based access with MFA**
-* Integrated **CloudTrail + Security Hub**
-
-👉 Tech: AWS IAM, CloudTrail
-
----
-
-### 🏗️ Terraform Secure Infrastructure
-
-* Built reusable **Terraform modules**
-* Enforced **encryption, logging, tagging policies**
-* Automated deployments
-
-👉 Tech: Terraform, AWS/Azure
-
----
-
-### 🤖 IAM Automation with Python
-
-* Automated **user lifecycle (JML)**
-* Performed **IAM audits using scripts**
-* Reduced manual admin workload
-
-👉 Tech: Python, Boto3
 
 ---
 
