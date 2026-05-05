@@ -37,8 +37,8 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="50"/>
   <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
