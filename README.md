@@ -42,7 +42,7 @@
   <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://worldvectorlogo.com/logo/golang-1" width="50"/>
+  <img src="[https://worldvectorlogo.com/logo/golang-1](https://cdn.worldvectorlogo.com/logos/golang-1.svg)" width="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" width="50"/>
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Ansible.png" width="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" width="50"/>
